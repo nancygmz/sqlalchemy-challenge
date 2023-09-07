@@ -11,7 +11,7 @@ Analysis included finding the most recent date in the dataset.
 Using this date, get the previous 12 months of precipitaton data.
 By sorting the DataFrame values by date, I plotted the results to show the preciptation in inches.
 
-![Precipitation](htt)
+![Precipitation](https://github.com/nancygmz/sqlalchemy-challenge/blob/main/Resources/Screenshot%202023-09-07%20153525.png)
 
 ## Weather Station Analysis
 
@@ -29,7 +29,7 @@ Designed a query to get the previous 12 months of temperature obstervation (TOBS
   
   • Plotted the reults as a histogram.
 
-![temp_histogram](ht)
+![temp_histogram](https://github.com/nancygmz/sqlalchemy-challenge/blob/main/Resources/Screenshot%202023-09-07%20153540.png)
 
 
 ## Designed a Flask API 
